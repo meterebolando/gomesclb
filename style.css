@@ -1,0 +1,20 @@
+h1{
+    color:royalblue(0,255,255);
+    text-align: center;
+    font-size: 50px;
+ }
+ 
+ body{
+ background-color: black;
+ }
+ 
+ p{
+     color: azure;
+     font-size: 40px;
+     text-align: justify;
+ }
+  #imagem1{
+    width: 50%;
+    margin: auto;
+    display: block;
+  }
